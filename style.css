@@ -1,0 +1,22 @@
+*{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    font-size:larger;
+    text-indent:20pxpx;
+    background-color:rgb(255, 181, 181);
+}
+
+h1 {
+    font-size:larger;
+}
+.kogo{
+    background-color: rgb(211, 101, 238);
+    
+}
+.lol{
+    border-style: groove;
+    border-radius: 100px;
+    border-color: crimson;
+    
+}
